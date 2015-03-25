@@ -16,6 +16,7 @@ A curated list about App Store Optimization info, resources and tools.
   5. [How I got 2.3 million app downloads (without spending a cent on marketing)](https://medium.com/@stuartkhall/how-i-got-2-3m-app-downloads-without-spending-a-cent-on-marketing-f4823b6bc779)
   6. [How My App Ended Up In An Apple Ad, And What Happened Next](http://www.fastcompany.com/3043401/how-my-app-ended-up-in-an-apple-ad-and-what-happened-next)
   7. [7 onboarding mistakes to avoid](https://medium.com/@bayramannakov/7-onboarding-mistakes-to-avoid-96418169def6)
+  8. [Mobile Growth with Morgan Brown — Lecture notes](https://medium.com/mobile-growth/mobile-growth-with-morgan-brown-lecture-notes-4f922b75ac57)
 
 ## Tools
   1. [Deeplink](http://www.deeplink.me)
