@@ -18,6 +18,7 @@ A curated list about App Store Optimization info, resources and tools.
   7. [7 onboarding mistakes to avoid](https://medium.com/@bayramannakov/7-onboarding-mistakes-to-avoid-96418169def6)
   8. [Mobile Growth with Morgan Brown — Lecture notes](https://medium.com/mobile-growth/mobile-growth-with-morgan-brown-lecture-notes-4f922b75ac57)
   9. [HOW TO PITCH YOUR APP AND GET IT REVIEWED](http://www.apptamin.com/blog/get-app-reviewed/)
+  10. [Are You Making These 5 Common User Onboarding Mistakes?](http://www.helpscout.net/blog/user-onboarding-mistakes/)
 
 ## Tools
   1. [Deeplink](http://www.deeplink.me)
