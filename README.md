@@ -19,6 +19,7 @@ A curated list about App Store Optimization info, resources and tools.
   8. [Mobile Growth with Morgan Brown — Lecture notes](https://medium.com/mobile-growth/mobile-growth-with-morgan-brown-lecture-notes-4f922b75ac57)
   9. [HOW TO PITCH YOUR APP AND GET IT REVIEWED](http://www.apptamin.com/blog/get-app-reviewed/)
   10. [Are You Making These 5 Common User Onboarding Mistakes?](http://www.helpscout.net/blog/user-onboarding-mistakes/)
+  11. [How to Ensure Your App will be a Huge Failure](http://savvyapps.com/blog/how-to-ensure-your-app-will-be-a-huge-failure)
 
 ## Tools
   1. [Deeplink](http://www.deeplink.me)
