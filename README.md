@@ -21,7 +21,12 @@ A curated list about App Store Optimization info, resources and tools.
   10. [Are You Making These 5 Common User Onboarding Mistakes?](http://www.helpscout.net/blog/user-onboarding-mistakes/)
   11. [How to Ensure Your App will be a Huge Failure](http://savvyapps.com/blog/how-to-ensure-your-app-will-be-a-huge-failure)
   12. [Step by Step App Store Optimization: An Objective Measure to Find the Best Keywords](http://blog.getlooseleaf.com/post/109888977759/step-by-step-app-store-optimization-an-objective)
+  13. [Our Best App Store Optimization and Marketing Tips](https://blog.sensortower.com/blog/2014/03/25/our-best-app-store-optimization-and-marketing-tips-for-app-developers/)
+  14. [Learn App Store Optimization](http://academy.sensortower.com)
 
 ## Tools
   1. [Deeplink](http://www.deeplink.me)
+
+## Books
+  1. [Hooked: How to Build Habit-Forming Products](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
 
