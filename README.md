@@ -23,6 +23,7 @@ A curated list about App Store Optimization info, resources and tools.
   12. [Step by Step App Store Optimization: An Objective Measure to Find the Best Keywords](http://blog.getlooseleaf.com/post/109888977759/step-by-step-app-store-optimization-an-objective)
   13. [Our Best App Store Optimization and Marketing Tips](https://blog.sensortower.com/blog/2014/03/25/our-best-app-store-optimization-and-marketing-tips-for-app-developers/)
   14. [Learn App Store Optimization](http://academy.sensortower.com)
+  15. [MEASURING THE LIFETIME VALUE OF A MOBILE CUSTOMER](http://www.apptamin.stfi.re/blog/lifetime-value-mobile-customer/)
 
 ## Tools
   1. [Deeplink](http://www.deeplink.me)
