@@ -24,6 +24,7 @@ A curated list about App Store Optimization info, resources and tools.
   13. [Our Best App Store Optimization and Marketing Tips](https://blog.sensortower.com/blog/2014/03/25/our-best-app-store-optimization-and-marketing-tips-for-app-developers/)
   14. [Learn App Store Optimization](http://academy.sensortower.com)
   15. [MEASURING THE LIFETIME VALUE OF A MOBILE CUSTOMER](http://www.apptamin.stfi.re/blog/lifetime-value-mobile-customer/)
+  16. [How to Research Apple App Store Keywords for an Unpublished App](https://blog.sensortower.com/blog/2013/11/14/how-to-research-apple-app-store-keywords-for-an-unpublished-app/)
 
 ## Tools
   1. [Deeplink](http://www.deeplink.me)
