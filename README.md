@@ -1,4 +1,4 @@
-# Awesome-APO
+# Awesome-ASO App Store Optimization 
 
 A curated list about App Store Optimization info, resources and tools. 
 
