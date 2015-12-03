@@ -29,8 +29,9 @@ A curated list about App Store Optimization info, resources and tools.
   18. [Apple Updates App Store Search Ranking Algorithm](http://searchengineland.com/apple-updates-app-store-search-ranking-algorithm-226056)
   19. [Detailed Guide On App Store Optimization](http://shanebarker.com/detailed-guide-on-app-store-optimization/)
   20. [iOS 9 y ASO 2.0: Una vuelta de tuerca a las búsquedas (App Indexing)](http://pickaso.com/2015/ios-9-aso-2-0-encontrar-apps)
-  21. [Startup Metrics for Mobile Pirates #MOAARRR
-](https://www.linkedin.com/pulse/startup-metrics-mobile-pirates-moaarrr-edith-yeung)
+  21. [Startup Metrics for Mobile Pirates #MOAARRR](https://www.linkedin.com/pulse/startup-metrics-mobile-pirates-moaarrr-edith-yeung)
+  22. [MOBILE SEARCH & SEO THE DIGITAL MARKETER’S GUIDE](https://builtvisible.com/mobile-seo-guide/?utm_content=buffer8ec93&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+
 
 ## Tools
   1. [Deeplink](http://www.deeplink.me)
