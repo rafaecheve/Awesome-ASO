@@ -32,6 +32,7 @@ A curated list about App Store Optimization info, resources and tools.
   21. [Startup Metrics for Mobile Pirates #MOAARRR](https://www.linkedin.com/pulse/startup-metrics-mobile-pirates-moaarrr-edith-yeung)
   22. [MOBILE SEARCH & SEO THE DIGITAL MARKETER’S GUIDE](https://builtvisible.com/mobile-seo-guide/?utm_content=buffer8ec93&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
   23. [8 Things You Should Do Immediately After Launching Your App](http://info.localytics.com/blog/8-things-you-should-do-immediately-after-launching-your-app)
+  24. [ASO – 11 WAYS TO INCREASE YOU APP DOWNLOADS](http://growthhackingpro.com/aso-11-ways-increase-app-downloads/)
 
 
 ## Tools
