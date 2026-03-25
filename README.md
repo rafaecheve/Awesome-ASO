@@ -40,6 +40,7 @@ A curated list about App Store Optimization info, resources and tools.
   1. [Deeplink](http://www.deeplink.me)
   2. [SensorTower](https://sensortower.com)
   3. [Appannie](https://www.appannie.com/tours/audience-intelligence)
+  4. [Screenshots.live](https://screenshots.live) - Visual editor + REST API for automated app store screenshot generation across all devices and languages.
 
 ## Books
   1. [Hooked: How to Build Habit-Forming Products](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
