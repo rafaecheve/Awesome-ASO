@@ -42,7 +42,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 2. [SensorTower](https://sensortower.com)
 3. [Appannie](https://www.appannie.com/tours/audience-intelligence)
 4. [BoostYourApp](https://boostyour.app) - ASO Decision Engine that tells you what to change in your next update to rank higher
-
+5. [Shotlingo](https://shotlingo.com) - Browser-based App Store screenshot generator with AI translation for 40+ languages and batch export.
 ## Books
 
 1. [Hooked: How to Build Habit-Forming Products](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
