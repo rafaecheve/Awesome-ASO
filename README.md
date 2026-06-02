@@ -42,8 +42,9 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 2. [Appstore Screenshots Generator](https://github.com/jawwadfirdousi/appstore-screenshots-generator) - Open-source App Store screenshot generator.
 3. [BoostYourApp](https://boostyour.app) - ASO Decision Engine that tells you what to change in your next update to rank higher
 4. [Deeplink](http://www.deeplink.me)
-5. [SensorTower](https://sensortower.com)
-6. [Shotlingo](https://shotlingo.com) - Browser-based App Store screenshot generator with AI translation for 40+ languages and batch export.
+5. [FreshActors App Store & Play Scrapers](https://apify.com/freshactors) - iOS & Android app data, reviews & ASO keywords.
+6. [SensorTower](https://sensortower.com)
+7. [Shotlingo](https://shotlingo.com) - Browser-based App Store screenshot generator with AI translation for 40+ languages and batch export.
 ## Books
 
 1. [Hooked: How to Build Habit-Forming Products](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
