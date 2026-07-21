@@ -45,12 +45,13 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 4. [ASOScan ASO Skills](https://github.com/ASOScan/aso-skills) - Open-source AI-agent skills for App Store Optimization: keyword research, keyword opportunities, competitor & review analysis, and a metadata/ASO-score audit. Works in Claude Code, Cursor, and any Agent-Skills client.
 5. [BoostYourApp](https://boostyour.app) - ASO Decision Engine that tells you what to change in your next update to rank higher
 6. [Deeplink](http://www.deeplink.me)
-7. [FreshActors App Store & Play Scrapers](https://apify.com/freshactors) - iOS & Android app data, reviews & ASO keywords.
-8. [Marteso](https://marteso.com) - ASO keyword tracking, AI metadata optimization and competitor analysis built for indie iOS developers. Permanent free tier (1 app, 50 keywords), Pro at €18/month.
-9. [SensorTower](https://sensortower.com)
-10. [Shots](https://shots.run) - Hosted MCP server for AI coding agents to generate App Store screenshots, app icons, ASO listing copy, and localization. Works with Codex, Claude Code, Cursor, and other MCP clients.
-11. [Shotlingo](https://shotlingo.com) - Browser-based App Store screenshot generator with AI translation for 40+ languages and batch export.
-12. [Sonar](https://trysonar.app) - AI-first ASO platform for indie developers: keyword research with difficulty and popularity scores, daily rank tracking, review monitoring, and competitor gap analysis for iOS & Android. REST API, CLI, and [MCP server](https://github.com/trysonar/mcp) included.
+7. [ezscreenshots.com](https://www.ezscreenshots.com) - simple screenshot maker with localization, ASO and more
+8. [FreshActors App Store & Play Scrapers](https://apify.com/freshactors) - iOS & Android app data, reviews & ASO keywords.
+9. [Marteso](https://marteso.com) - ASO keyword tracking, AI metadata optimization and competitor analysis built for indie iOS developers. Permanent free tier (1 app, 50 keywords), Pro at €18/month.
+10. [SensorTower](https://sensortower.com)
+11. [Shots](https://shots.run) - Hosted MCP server for AI coding agents to generate App Store screenshots, app icons, ASO listing copy, and localization. Works with Codex, Claude Code, Cursor, and other MCP clients.
+12. [Shotlingo](https://shotlingo.com) - Browser-based App Store screenshot generator with AI translation for 40+ languages and batch export.
+13. [Sonar](https://trysonar.app) - AI-first ASO platform for indie developers: keyword research with difficulty and popularity scores, daily rank tracking, review monitoring, and competitor gap analysis for iOS & Android. REST API, CLI, and [MCP server](https://github.com/trysonar/mcp) included.
 
 ## Books
 
