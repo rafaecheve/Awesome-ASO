@@ -41,16 +41,17 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 
 1. [Appannie](https://www.appannie.com/tours/audience-intelligence)
 2. [AppNiche](https://getappniche.com/tools/app-store-keyword-tool) - Free ASO keyword opportunity checker for indie iOS apps.
-3. [Appstore Screenshots Generator](https://github.com/jawwadfirdousi/appstore-screenshots-generator) - Open-source App Store screenshot generator.
-4. [ASOScan ASO Skills](https://github.com/ASOScan/aso-skills) - Open-source AI-agent skills for App Store Optimization: keyword research, keyword opportunities, competitor & review analysis, and a metadata/ASO-score audit. Works in Claude Code, Cursor, and any Agent-Skills client.
-5. [BoostYourApp](https://boostyour.app) - ASO Decision Engine that tells you what to change in your next update to rank higher
-6. [Deeplink](http://www.deeplink.me)
-7. [FreshActors App Store & Play Scrapers](https://apify.com/freshactors) - iOS & Android app data, reviews & ASO keywords.
-8. [Marteso](https://marteso.com) - ASO keyword tracking, AI metadata optimization and competitor analysis built for indie iOS developers. Permanent free tier (1 app, 50 keywords), Pro at €18/month.
-9. [SensorTower](https://sensortower.com)
-10. [Shots](https://shots.run) - Hosted MCP server for AI coding agents to generate App Store screenshots, app icons, ASO listing copy, and localization. Works with Codex, Claude Code, Cursor, and other MCP clients.
-11. [Shotlingo](https://shotlingo.com) - Browser-based App Store screenshot generator with AI translation for 40+ languages and batch export.
-12. [Sonar](https://trysonar.app) - AI-first ASO platform for indie developers: keyword research with difficulty and popularity scores, daily rank tracking, review monitoring, and competitor gap analysis for iOS & Android. REST API, CLI, and [MCP server](https://github.com/trysonar/mcp) included.
+3. [AppRankly](https://github.com/zmsp/AppRankly) - Open-source, self-hosted ASO keyword audit tool and mobile app store analytics dashboard for iOS and Android.
+4. [Appstore Screenshots Generator](https://github.com/jawwadfirdousi/appstore-screenshots-generator) - Open-source App Store screenshot generator.
+5. [ASOScan ASO Skills](https://github.com/ASOScan/aso-skills) - Open-source AI-agent skills for App Store Optimization: keyword research, keyword opportunities, competitor & review analysis, and a metadata/ASO-score audit. Works in Claude Code, Cursor, and any Agent-Skills client.
+6. [BoostYourApp](https://boostyour.app) - ASO Decision Engine that tells you what to change in your next update to rank higher
+7. [Deeplink](http://www.deeplink.me)
+8. [FreshActors App Store & Play Scrapers](https://apify.com/freshactors) - iOS & Android app data, reviews & ASO keywords.
+9. [Marteso](https://marteso.com) - ASO keyword tracking, AI metadata optimization and competitor analysis built for indie iOS developers. Permanent free tier (1 app, 50 keywords), Pro at €18/month.
+10. [SensorTower](https://sensortower.com)
+11. [Shots](https://shots.run) - Hosted MCP server for AI coding agents to generate App Store screenshots, app icons, ASO listing copy, and localization. Works with Codex, Claude Code, Cursor, and other MCP clients.
+12. [Shotlingo](https://shotlingo.com) - Browser-based App Store screenshot generator with AI translation for 40+ languages and batch export.
+13. [Sonar](https://trysonar.app) - AI-first ASO platform for indie developers: keyword research with difficulty and popularity scores, daily rank tracking, review monitoring, and competitor gap analysis for iOS & Android. REST API, CLI, and [MCP server](https://github.com/trysonar/mcp) included.
 
 ## Books
 
