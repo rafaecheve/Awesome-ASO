@@ -40,9 +40,10 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 ## Tools
 
 1. [Appannie](https://www.appannie.com/tours/audience-intelligence)
-2. [AppNiche](https://getappniche.com/tools/app-store-keyword-tool) - Free ASO keyword opportunity checker for indie iOS apps.
-3. [AppRankly](https://github.com/zmsp/AppRankly) - Open-source, self-hosted ASO keyword audit tool and mobile app store analytics dashboard for iOS and Android.
-4. [AppStills](https://appstills.com) - App Store & Google Play screenshot generator. 3D editor, 50 languages, free tier.
+2. [Applyra](https://www.applyra.io) - Keyword tracking, difficulty scores, competitors. iOS, Android. Free tier, $9.99/mo. API.
+3. [AppNiche](https://getappniche.com/tools/app-store-keyword-tool) - Free ASO keyword opportunity checker for indie iOS apps.
+4. [AppRankly](https://github.com/zmsp/AppRankly) - Open-source, self-hosted ASO keyword audit tool and mobile app store analytics dashboard for iOS and Android.
+5. [AppStills](https://appstills.com) - App Store & Google Play screenshot generator. 3D editor, 50 languages, free tier.
 4. [Appstore Screenshots Generator](https://github.com/jawwadfirdousi/appstore-screenshots-generator) - Open-source App Store screenshot generator.
 5. [ASOScan ASO Skills](https://github.com/ASOScan/aso-skills) - Open-source AI-agent skills for App Store Optimization: keyword research, keyword opportunities, competitor & review analysis, and a metadata/ASO-score audit. Works in Claude Code, Cursor, and any Agent-Skills client.
 6. [BoostYourApp](https://boostyour.app) - ASO Decision Engine that tells you what to change in your next update to rank higher
