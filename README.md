@@ -39,6 +39,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 
 ## Tools
 
+1. [AdMapix](https://www.admapix.com) - Ad intelligence and app market data for competitor research.
 1. [Appannie](https://www.appannie.com/tours/audience-intelligence)
 2. [AppNiche](https://getappniche.com/tools/app-store-keyword-tool) - Free ASO keyword opportunity checker for indie iOS apps.
 3. [AppRankly](https://github.com/zmsp/AppRankly) - Open-source, self-hosted ASO keyword audit tool and mobile app store analytics dashboard for iOS and Android.
