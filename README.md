@@ -57,6 +57,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 6. [Deeplink](http://www.deeplink.me)
 7. [ezscreenshots.com](https://www.ezscreenshots.com) - simple screenshot maker with localization, ASO and more
 8. [FreshActors App Store & Play Scrapers](https://apify.com/freshactors) - iOS & Android app data, reviews & ASO keywords.
+9. [MagicScreenshots](https://www.magicscreenshots.com) - AI restyle and localize existing App Store screenshots. 40+ langs, RTL.
 9. [Marteso](https://marteso.com) - ASO keyword tracking, AI metadata optimization and competitor analysis built for indie iOS developers. Permanent free tier (1 app, 50 keywords), Pro at €18/month.
 10. [SensorTower](https://sensortower.com)
 11. [Screenies](https://screenies.app) - AI App Store screenshot generator: upload raw app screens, get a designed, localized screenshot set in every required device size. Includes an MCP server for Claude Code, Cursor, and other agents.
