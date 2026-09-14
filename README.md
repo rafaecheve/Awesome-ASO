@@ -42,6 +42,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 ## Tools
 
 1. [AdMapix](https://www.admapix.com) - Ad intelligence and app market data for competitor research.
+1. [App Store Localizer](https://asolocalization.com) - Localize App Store screenshots and metadata from a public listing URL; translate captions and publish to App Store Connect.
 1. [Appannie](https://www.appannie.com/tours/audience-intelligence)
 2. [Applyra](https://www.applyra.io) - Keyword tracking, difficulty scores, competitors. iOS, Android. Free tier, $9.99/mo. API.
 3. [AppNiche](https://getappniche.com/tools/app-store-keyword-tool) - Free ASO keyword opportunity checker for indie iOS apps.
