@@ -7,6 +7,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 ## Blogs
 
 1. [apptamin](http://www.apptamin.com/blog/)
+2. [ASOScan Blog](https://asoscan.com/blog) - Keyword research, store ranking, localization, Apple Search Ads vs organic.
 
 ## Articles & Posts
 
