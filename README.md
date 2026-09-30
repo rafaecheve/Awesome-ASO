@@ -62,6 +62,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 7. [DuoShot](https://ryuamarines-tools.vercel.app/trends/iphone-duo/duoshot/) - Free local-browser tool for iPhone Duo outer/inner screenshot launch images; no upload required.
 7. [ezscreenshots.com](https://www.ezscreenshots.com) - simple screenshot maker with localization, ASO and more
 8. [FreshActors App Store & Play Scrapers](https://apify.com/freshactors) - iOS & Android app data, reviews & ASO keywords.
+9. [MagicScreenshots](https://www.magicscreenshots.com) - AI restyle and localize existing App Store screenshots. 40+ langs, RTL.
 9. [Marteso](https://marteso.com) - ASO keyword tracking, AI metadata optimization and competitor analysis built for indie iOS developers. Permanent free tier (1 app, 50 keywords), Pro at €18/month.
 10. [SensorTower](https://sensortower.com)
 11. [Screen Studio Kit](https://martingruner.com/projects/screenshot-studio) - Create, localize, validate, and export app-store screenshots locally.
