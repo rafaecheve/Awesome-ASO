@@ -68,6 +68,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 11. [Screen Studio Kit](https://martingruner.com/projects/screenshot-studio) - Create, localize, validate, and export app-store screenshots locally.
 11. [Screenies](https://screenies.app) - AI App Store screenshot generator: upload raw app screens, get a designed, localized screenshot set in every required device size. Includes an MCP server for Claude Code, Cursor, and other agents.
 12. [Screenproof](https://github.com/vsolano9/screenproof) - App Store screenshot and preview linter for Apple's media requirements.
+12. [Shotfleet](https://shotfleet.com) - CLI: store screenshots in every language from one Maestro flow, with a language check.
 12. [Shots](https://shots.run) - Hosted MCP server for AI coding agents to generate App Store screenshots, app icons, ASO listing copy, and localization. Works with Codex, Claude Code, Cursor, and other MCP clients.
 13. [Shotlingo](https://shotlingo.com) - Browser-based App Store screenshot generator with AI translation for 40+ languages and batch export.
 14. [Sonar](https://trysonar.app) - AI-first ASO platform for indie developers: keyword research with difficulty and popularity scores, daily rank tracking, review monitoring, and competitor gap analysis for iOS & Android. REST API, CLI, and [MCP server](https://github.com/trysonar/mcp) included.
