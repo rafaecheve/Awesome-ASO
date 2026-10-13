@@ -45,6 +45,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 1. [AdMapix](https://www.admapix.com) - Ad intelligence and app market data for competitor research.
 1. [App Availability](https://appavailability.com) - Per-country availability, rating and chart rank. iOS, Android. Free tier.
 1. [App Store Localizer](https://asolocalization.com) - Localize App Store screenshots and metadata from a public listing URL; translate captions and publish to App Store Connect.
+1. [App Store Reviews Scraper](https://mamoo85.github.io/open-data-actors/app-store-reviews.html) - iOS reviews and ratings, 150+ countries, JSON/CSV. Apify actor, free credit.
 1. [Appannie](https://www.appannie.com/tours/audience-intelligence)
 2. [appdesigns](https://appdesigns.click) - Free App Store & Google Play screenshot generator: real iPhone, iPad, Mac and Apple Watch frames, exact store sizes, no watermark, no account required.
 2. [Applyra](https://www.applyra.io) - Keyword tracking, difficulty scores, competitors. iOS, Android. Free tier, $9.99/mo. API.
