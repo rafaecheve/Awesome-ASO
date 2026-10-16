@@ -75,6 +75,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 14. [Slide-Easy](https://slideeasy.app/app-store-review-exporter) - Free App Store review CSV export, full-size screenshots, character counter. No login.
 14. [Sonar](https://trysonar.app) - AI-first ASO platform for indie developers: keyword research with difficulty and popularity scores, daily rank tracking, review monitoring, and competitor gap analysis for iOS & Android. REST API, CLI, and [MCP server](https://github.com/trysonar/mcp) included.
 15. [Storelift](https://storelift.net) - Daily keyword rank tracking, rivals ranking above you. iOS, Android. Free tier, $20/mo.
+16. [TranslateMyImage](https://translatemyimage.com/screenshot-translator) - Translates text in app screenshots into 45 languages, keeps the layout. Free tier.
 
 ## Books
 
