@@ -49,7 +49,6 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 1. [Appannie](https://www.appannie.com/tours/audience-intelligence)
 2. [appdesigns](https://appdesigns.click) - Free App Store & Google Play screenshot generator: real iPhone, iPad, Mac and Apple Watch frames, exact store sizes, no watermark, no account required.
 2. [Applyra](https://www.applyra.io) - Keyword tracking, difficulty scores, competitors. iOS, Android. Free tier, $9.99/mo. API.
-3. [AppNiche](https://getappniche.com/tools/app-store-keyword-tool) - Free ASO keyword opportunity checker for indie iOS apps.
 4. [AppRankly](https://github.com/zmsp/AppRankly) - Open-source, self-hosted ASO keyword audit tool and mobile app store analytics dashboard for iOS and Android.
 5. [AppStills](https://appstills.com) - App Store & Google Play screenshot generator. 3D editor, 50 languages, free tier.
 4. [Appstore Screenshots Generator](https://github.com/jawwadfirdousi/appstore-screenshots-generator) - Open-source App Store screenshot generator.
@@ -64,6 +63,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 7. [DuoShot](https://ryuamarines-tools.vercel.app/trends/iphone-duo/duoshot/) - Free local-browser tool for iPhone Duo outer/inner screenshot launch images; no upload required.
 7. [ezscreenshots.com](https://www.ezscreenshots.com) - simple screenshot maker with localization, ASO and more
 8. [FreshActors App Store & Play Scrapers](https://apify.com/freshactors) - iOS & Android app data, reviews & ASO keywords.
+8. [GetAppNiche](https://getappniche.com/tools/app-store-keyword-tool) - Free tool: who ranks for any keyword. iOS, Android. Paid: revenue estimates, API, MCP.
 9. [Marteso](https://marteso.com) - ASO keyword tracking, AI metadata optimization and competitor analysis built for indie iOS developers. Permanent free tier (1 app, 50 keywords), Pro at €18/month.
 9. [MetaRun](https://metarun.dev) - App Store Connect tool: PPP pricing in 175 storefronts, listing localization, ASO. iOS.
 10. [pitchboom.io](https://pitchboom.io) - Motion-design promo videos from your store page. 9:16, 16:9. 500 free credits, €30/mo.
