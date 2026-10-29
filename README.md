@@ -53,6 +53,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 4. [AppRankly](https://github.com/zmsp/AppRankly) - Open-source, self-hosted ASO keyword audit tool and mobile app store analytics dashboard for iOS and Android.
 5. [AppStills](https://appstills.com) - App Store & Google Play screenshot generator. 3D editor, 50 languages, free tier.
 4. [Appstore Screenshots Generator](https://github.com/jawwadfirdousi/appstore-screenshots-generator) - Open-source App Store screenshot generator.
+5. [Appto](https://appto.store) - Mac app: App Store niche research, screenshots, metadata in 39 languages. $9.99/mo.
 5. [AsoBeast](https://asobeast.com) - Open-source ASO rank tracker, competitors, reviews, MCP. iOS, Android. Self-host or $10/mo.
 6. [ASOScan ASO Skills](https://github.com/ASOScan/aso-skills) - Open-source AI-agent skills for App Store Optimization: keyword research, keyword opportunities, competitor & review analysis, and a metadata/ASO-score audit. Works in Claude Code, Cursor, and any Agent-Skills client.
 7. [BoostYourApp](https://boostyour.app) - ASO Decision Engine that tells you what to change in your next update to rank higher
