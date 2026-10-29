@@ -46,6 +46,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 1. [App Availability](https://appavailability.com) - Per-country availability, rating and chart rank. iOS, Android. Free tier.
 1. [App Store Localizer](https://asolocalization.com) - Localize App Store screenshots and metadata from a public listing URL; translate captions and publish to App Store Connect.
 1. [App Store Reviews Scraper](https://apify.com/wintersworks/appstore-reviews-scraper) - iOS reviews by country as CSV/JSON: rating, text, version, topic tags.
+1. [app-console-mcp](https://github.com/Alekla0126/app-console-mcp) - Open-source MCP and CLI for Play Console, App Store Connect, AdMob. iOS, Android.
 1. [Appannie](https://www.appannie.com/tours/audience-intelligence)
 2. [appdesigns](https://appdesigns.click) - Free App Store & Google Play screenshot generator: real iPhone, iPad, Mac and Apple Watch frames, exact store sizes, no watermark, no account required.
 2. [Applyra](https://www.applyra.io) - Keyword tracking, difficulty scores, competitors. iOS, Android. Free tier, $9.99/mo. API.
