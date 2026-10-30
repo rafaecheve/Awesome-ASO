@@ -47,6 +47,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 1. [App Store Localizer](https://asolocalization.com) - Localize App Store screenshots and metadata from a public listing URL; translate captions and publish to App Store Connect.
 1. [App Store Reviews Scraper](https://apify.com/wintersworks/appstore-reviews-scraper) - iOS reviews by country as CSV/JSON: rating, text, version, topic tags.
 1. [Appannie](https://www.appannie.com/tours/audience-intelligence)
+1. [Apparent App Report](https://apparent.fyi/tools/app-report) - Rating, reviews and countries for any App Store or Play app. Free, no sign-up.
 2. [appdesigns](https://appdesigns.click) - Free App Store & Google Play screenshot generator: real iPhone, iPad, Mac and Apple Watch frames, exact store sizes, no watermark, no account required.
 2. [Applyra](https://www.applyra.io) - Keyword tracking, difficulty scores, competitors. iOS, Android. Free tier, $9.99/mo. API.
 3. [AppNiche](https://getappniche.com/tools/app-store-keyword-tool) - Free ASO keyword opportunity checker for indie iOS apps.
