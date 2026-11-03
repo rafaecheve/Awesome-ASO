@@ -64,6 +64,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 3. [Appstore Screenshots Generator](https://github.com/jawwadfirdousi/appstore-screenshots-generator) - Open-source App Store screenshot generator.
 4. [ASOScan ASO Skills](https://github.com/ASOScan/aso-skills) - Open-source AI-agent skills for App Store Optimization: keyword research, keyword opportunities, competitor & review analysis, and a metadata/ASO-score audit. Works in Claude Code, Cursor, and any Agent-Skills client.
 5. [BoostYourApp](https://boostyour.app) - ASO Decision Engine that tells you what to change in your next update to rank higher
+6. [countrymanager](https://countrymanager.app) - Reply to reviews with AI drafts, ratings by country. iOS, Android. MCP. €49/mo.
 6. [Deeplink](http://www.deeplink.me)
 7. [DuoShot](https://ryuamarines-tools.vercel.app/trends/iphone-duo/duoshot/) - Free local-browser tool for iPhone Duo outer/inner screenshot launch images; no upload required.
 7. [ezscreenshots.com](https://www.ezscreenshots.com) - simple screenshot maker with localization, ASO and more
