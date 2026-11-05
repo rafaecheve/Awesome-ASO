@@ -43,6 +43,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 ## Tools
 
 1. [AdMapix](https://www.admapix.com) - Ad intelligence and app market data for competitor research.
+1. [AlphaOSINT App Store Reviews API](https://alphaosint.com/sources/apple-app-store-reviews-api/) - iOS reviews as JSON by country: rating, text, version. API, MCP.
 1. [App Availability](https://appavailability.com) - Per-country availability, rating and chart rank. iOS, Android. Free tier.
 1. [App Store Localizer](https://asolocalization.com) - Localize App Store screenshots and metadata from a public listing URL; translate captions and publish to App Store Connect.
 1. [App Store Reviews Scraper](https://apify.com/wintersworks/appstore-reviews-scraper) - iOS reviews by country as CSV/JSON: rating, text, version, topic tags.
