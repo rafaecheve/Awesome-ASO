@@ -67,6 +67,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 6. [Deeplink](http://www.deeplink.me)
 7. [DuoShot](https://ryuamarines-tools.vercel.app/trends/iphone-duo/duoshot/) - Free local-browser tool for iPhone Duo outer/inner screenshot launch images; no upload required.
 7. [ezscreenshots.com](https://www.ezscreenshots.com) - simple screenshot maker with localization, ASO and more
+8. [Firecrawl Alexandria Aptoide](https://alexandria.firecrawl.dev/aptoide-com?utm_source=awesome-aso&utm_medium=integration) - Android app search, permissions, ratings and version history.
 8. [FreshActors App Store & Play Scrapers](https://apify.com/freshactors) - iOS & Android app data, reviews & ASO keywords.
 9. [Marteso](https://marteso.com) - ASO keyword tracking, AI metadata optimization and competitor analysis built for indie iOS developers. Permanent free tier (1 app, 50 keywords), Pro at €18/month.
 9. [MetaRun](https://metarun.dev) - App Store Connect tool: PPP pricing in 175 storefronts, listing localization, ASO. iOS.
