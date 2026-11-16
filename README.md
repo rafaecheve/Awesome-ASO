@@ -53,6 +53,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 1. [Apple App Store Scraper](https://apify.com/pennydata/apple-app-store-scraper) - iOS app search, ID lookup and top charts by country, JSON/CSV.
 2. [Applyra](https://www.applyra.io) - Keyword tracking, difficulty scores, competitors. iOS, Android. Free tier, $9.99/mo. API.
 3. [AppNiche](https://getappniche.com/tools/app-store-keyword-tool) - Free ASO keyword opportunity checker for indie iOS apps.
+4. [AppPage.net](https://apppage.net/tools) - Free ASO audit, keyword rank checker, competitor comparison. iOS, Android. MCP.
 4. [AppRankly](https://github.com/zmsp/AppRankly) - Open-source, self-hosted ASO keyword audit tool and mobile app store analytics dashboard for iOS and Android.
 5. [AppStills](https://appstills.com) - App Store & Google Play screenshot generator. 3D editor, 50 languages, free tier.
 4. [Appstore Screenshots Generator](https://github.com/jawwadfirdousi/appstore-screenshots-generator) - Open-source App Store screenshot generator.
