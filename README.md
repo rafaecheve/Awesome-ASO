@@ -84,6 +84,10 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 15. [Storeglow](https://storeglow.app) - App Store & Play screenshot generator. 39 languages, fastlane ZIP. Free tier, €49/yr.
 15. [Storelift](https://storelift.net) - Daily keyword rank tracking, rivals ranking above you. iOS, Android. Free tier, $20/mo.
 
+## Datasets
+
+1. [Fastemy ASO Cases](https://aso.fastemy.com/dataset/) - Sourced ASO case studies with before/after metrics. CSV, JSON, CC BY 4.0.
+
 ## Books
 
 1. [Hooked: How to Build Habit-Forming Products](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
