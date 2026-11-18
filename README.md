@@ -39,6 +39,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 24. [ASO – 11 WAYS TO INCREASE YOU APP DOWNLOADS](http://growthhackingpro.com/aso-11-ways-increase-app-downloads/)
 25. [The Complete App Store Optimization Checklist: 2016 Edition](https://sensortower.com/blog/app-store-optimization-checklist)
 26. [Apple Search Popularity Score Explained](https://trysonar.app/blog/apple-search-popularity) - What Apple's Search Popularity score (5-100) actually measures, the formula to estimate daily impressions from it, and how to use it for keyword research.
+27. [AI app discovery study (78 categories)](https://metarun.dev/research/ai-app-discovery) - How often an AI assistant's pick matches the App Store #1.
 
 ## Tools
 
