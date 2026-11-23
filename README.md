@@ -44,19 +44,24 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 
 1. [AdMapix](https://www.admapix.com) - Ad intelligence and app market data for competitor research.
 1. [App Availability](https://appavailability.com) - Per-country availability, rating and chart rank. iOS, Android. Free tier.
+1. [App Store & Google Play Reviews Scraper](https://apify.com/ahmed.fouaad82/app-store-reviews) - iOS & Android reviews by country: rating, text, app version.
+1. [App Icon and Screenshot Sizes](https://topped.ai/tools/app-icon-and-screenshot-size) - Icon, screenshot and preview sizes for both stores, with sources.
 1. [App Store Localizer](https://asolocalization.com) - Localize App Store screenshots and metadata from a public listing URL; translate captions and publish to App Store Connect.
 1. [App Store Reviews Scraper](https://apify.com/wintersworks/appstore-reviews-scraper) - iOS reviews by country as CSV/JSON: rating, text, version, topic tags.
 1. [app-console-mcp](https://github.com/Alekla0126/app-console-mcp) - Open-source MCP and CLI for Play Console, App Store Connect, AdMob. iOS, Android.
 1. [Appannie](https://www.appannie.com/tours/audience-intelligence)
 1. [Apparent App Report](https://apparent.fyi/tools/app-report) - Rating, reviews and countries for any App Store or Play app. Free, no sign-up.
 2. [appdesigns](https://appdesigns.click) - Free App Store & Google Play screenshot generator: real iPhone, iPad, Mac and Apple Watch frames, exact store sizes, no watermark, no account required.
+1. [Apple Ads API v5 Check](https://loopmarket.ing/guides/apple-ads-api-v5-check?utm_source=awesome-aso) - Paste code, find Apple Search Ads API v5 calls. Free, browser-only.
 1. [Apple App Store Scraper](https://apify.com/pennydata/apple-app-store-scraper) - iOS app search, ID lookup and top charts by country, JSON/CSV.
 2. [Applyra](https://www.applyra.io) - Keyword tracking, difficulty scores, competitors. iOS, Android. Free tier, $9.99/mo. API.
 3. [AppNiche](https://getappniche.com/tools/app-store-keyword-tool) - Free ASO keyword opportunity checker for indie iOS apps.
+4. [AppPage.net](https://apppage.net/tools) - Free ASO audit, keyword rank checker, competitor comparison. iOS, Android. MCP.
 4. [AppRankly](https://github.com/zmsp/AppRankly) - Open-source, self-hosted ASO keyword audit tool and mobile app store analytics dashboard for iOS and Android.
+1. [AppScreenshots](https://appscreenshots.net/) - Browser editor for App Store and Google Play screenshots. Free PNG export.
 5. [AppStills](https://appstills.com) - App Store & Google Play screenshot generator. 3D editor, 50 languages, free tier.
 4. [Appstore Screenshots Generator](https://github.com/jawwadfirdousi/appstore-screenshots-generator) - Open-source App Store screenshot generator.
-5. [Appto](https://appto.store) - Mac app: App Store niche research, screenshots, metadata in 39 languages. $9.99/mo.
+5. [Appto](https://appto.store) - Mac app: App Store niche research, screenshots, metadata in 39 languages. From $14.99/mo.
 5. [AsoBeast](https://asobeast.com) - Open-source ASO rank tracker, competitors, reviews, MCP. iOS, Android. Self-host or $10/mo.
 6. [ASOScan ASO Skills](https://github.com/ASOScan/aso-skills) - Open-source AI-agent skills for App Store Optimization: keyword research, keyword opportunities, competitor & review analysis, and a metadata/ASO-score audit. Works in Claude Code, Cursor, and any Agent-Skills client.
 7. [BoostYourApp](https://boostyour.app) - ASO Decision Engine that tells you what to change in your next update to rank higher
@@ -69,6 +74,9 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 7. [ezscreenshots.com](https://www.ezscreenshots.com) - simple screenshot maker with localization, ASO and more
 8. [FreshActors App Store & Play Scrapers](https://apify.com/freshactors) - iOS & Android app data, reviews & ASO keywords.
 1. [Keyword Race](https://keywordrace.com) - App Store keyword research for indie iOS devs. Free checks.
+9. [Headloop](https://headloop.app) - Checks App Store header (21:9) and search (3:2) videos in the browser, no upload. Free.
+9. [Google Play Reviews Scraper](https://apify.com/dheerajitbhu/google-play-reviews) - Android reviews by country, language, stars, date. JSON/CSV, no login.
+9. [GameQuant](https://gamequant.io) - Daily App Store top chart history in 170+ countries, download and revenue estimates.
 9. [Marteso](https://marteso.com) - ASO keyword tracking, AI metadata optimization and competitor analysis built for indie iOS developers. Permanent free tier (1 app, 50 keywords), Pro at €18/month.
 9. [MetaRun](https://metarun.dev) - App Store Connect tool: PPP pricing in 175 storefronts, listing localization, ASO. iOS.
 10. [OneStore](https://www.onestore.so) - Listings, screenshots, releases, reviews for App Store and Google Play. MCP. Free tier.
@@ -84,6 +92,11 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 14. [Sonar](https://trysonar.app) - AI-first ASO platform for indie developers: keyword research with difficulty and popularity scores, daily rank tracking, review monitoring, and competitor gap analysis for iOS & Android. REST API, CLI, and [MCP server](https://github.com/trysonar/mcp) included.
 15. [Storeglow](https://storeglow.app) - App Store & Play screenshot generator. 39 languages, fastlane ZIP. Free tier, €49/yr.
 15. [Storelift](https://storelift.net) - Daily keyword rank tracking, rivals ranking above you. iOS, Android. Free tier, $20/mo.
+16. [Volution App Store Tools](https://apify.com/volutiontech) - Keyword rank tracker (18 countries, difficulty, suggestions), review insights (complaints, bugs, feature requests), top charts with rank changes, competitor update monitor. iOS. Pay per result, no login.
+
+## Datasets
+
+1. [Fastemy ASO Cases](https://aso.fastemy.com/dataset/) - Sourced ASO case studies with before/after metrics. CSV, JSON, CC BY 4.0.
 
 ## Books
 
