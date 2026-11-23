@@ -75,6 +75,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 7. [ezscreenshots.com](https://www.ezscreenshots.com) - simple screenshot maker with localization, ASO and more
 8. [Firecrawl Alexandria Aptoide](https://alexandria.firecrawl.dev/aptoide-com?utm_source=awesome-aso&utm_medium=integration) - Android app search, permissions, ratings and version history.
 8. [FreshActors App Store & Play Scrapers](https://apify.com/freshactors) - iOS & Android app data, reviews & ASO keywords.
+1. [Keyword Race](https://keywordrace.com) - App Store keyword research for indie iOS devs. Free checks.
 9. [Headloop](https://headloop.app) - Checks App Store header (21:9) and search (3:2) videos in the browser, no upload. Free.
 9. [Google Play Reviews Scraper](https://apify.com/dheerajitbhu/google-play-reviews) - Android reviews by country, language, stars, date. JSON/CSV, no login.
 9. [GameQuant](https://gamequant.io) - Daily App Store top chart history in 170+ countries, download and revenue estimates.
