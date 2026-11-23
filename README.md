@@ -87,6 +87,10 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 15. [Storelift](https://storelift.net) - Daily keyword rank tracking, rivals ranking above you. iOS, Android. Free tier, $20/mo.
 16. [Volution App Store Tools](https://apify.com/volutiontech) - Keyword rank tracker (18 countries, difficulty, suggestions), review insights (complaints, bugs, feature requests), top charts with rank changes, competitor update monitor. iOS. Pay per result, no login.
 
+## Datasets
+
+1. [Fastemy ASO Cases](https://aso.fastemy.com/dataset/) - Sourced ASO case studies with before/after metrics. CSV, JSON, CC BY 4.0.
+
 ## Books
 
 1. [Hooked: How to Build Habit-Forming Products](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
