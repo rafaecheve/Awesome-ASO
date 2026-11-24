@@ -43,6 +43,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 ## Tools
 
 1. [AdMapix](https://www.admapix.com) - Ad intelligence and app market data for competitor research.
+1. [AlphaOSINT App Store Reviews API](https://alphaosint.com/sources/apple-app-store-reviews-api/) - iOS reviews as JSON by country: rating, text, version. API, MCP.
 1. [App Availability](https://appavailability.com) - Per-country availability, rating and chart rank. iOS, Android. Free tier.
 1. [App Store & Google Play Reviews Scraper](https://apify.com/ahmed.fouaad82/app-store-reviews) - iOS & Android reviews by country: rating, text, app version.
 1. [App Icon and Screenshot Sizes](https://topped.ai/tools/app-icon-and-screenshot-size) - Icon, screenshot and preview sizes for both stores, with sources.
