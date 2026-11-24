@@ -47,6 +47,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 1. [App Store & Google Play Reviews Scraper](https://apify.com/ahmed.fouaad82/app-store-reviews) - iOS & Android reviews by country: rating, text, app version.
 1. [App Icon and Screenshot Sizes](https://topped.ai/tools/app-icon-and-screenshot-size) - Icon, screenshot and preview sizes for both stores, with sources.
 1. [App Store Localizer](https://asolocalization.com) - Localize App Store screenshots and metadata from a public listing URL; translate captions and publish to App Store Connect.
+1. [App Store Reviews Monitor](https://apify.com/contented_catwalk/app-store-reviews-monitor) - iOS reviews per country, only-new mode, per-version ratings. Apify.
 1. [App Store Reviews Scraper](https://apify.com/wintersworks/appstore-reviews-scraper) - iOS reviews by country as CSV/JSON: rating, text, version, topic tags.
 1. [app-console-mcp](https://github.com/Alekla0126/app-console-mcp) - Open-source MCP and CLI for Play Console, App Store Connect, AdMob. iOS, Android.
 1. [Appannie](https://www.appannie.com/tours/audience-intelligence)
