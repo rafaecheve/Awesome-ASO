@@ -50,6 +50,13 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 1. [App Store Reviews Scraper](https://apify.com/wintersworks/appstore-reviews-scraper) - iOS reviews by country as CSV/JSON: rating, text, version, topic tags.
 1. [app-console-mcp](https://github.com/Alekla0126/app-console-mcp) - Open-source MCP and CLI for Play Console, App Store Connect, AdMob. iOS, Android.
 1. [Appannie](https://www.appannie.com/tours/audience-intelligence)
+2. [Appstore Screenshots Generator](https://github.com/jawwadfirdousi/appstore-screenshots-generator) - Open-source App Store screenshot generator.
+3. [BoostYourApp](https://boostyour.app) - ASO Decision Engine that tells you what to change in your next update to rank higher
+4. [Deeplink](http://www.deeplink.me)
+5. [FreshActors App Store & Play Scrapers](https://apify.com/freshactors) - iOS & Android app data, reviews & ASO keywords.
+6. [miTT Store Asset Generator](https://mittl-medien.de/pwa-asset-generator) - Free generator for App Store & Play icons plus the Play feature graphic.
+7. [SensorTower](https://sensortower.com)
+8. [Shotlingo](https://shotlingo.com) - Browser-based App Store screenshot generator with AI translation for 40+ languages and batch export.
 1. [Apparent App Report](https://apparent.fyi/tools/app-report) - Rating, reviews and countries for any App Store or Play app. Free, no sign-up.
 2. [appdesigns](https://appdesigns.click) - Free App Store & Google Play screenshot generator: real iPhone, iPad, Mac and Apple Watch frames, exact store sizes, no watermark, no account required.
 1. [Apple Ads API v5 Check](https://loopmarket.ing/guides/apple-ads-api-v5-check?utm_source=awesome-aso) - Paste code, find Apple Search Ads API v5 calls. Free, browser-only.
