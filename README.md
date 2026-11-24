@@ -98,7 +98,8 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 
 ## Datasets
 
-1. [Fastemy ASO Cases](https://aso.fastemy.com/dataset/) - Sourced ASO case studies with before/after metrics. CSV, JSON, CC BY 4.0.
+1. [Appstore_Top_30](https://github.com/e-hai/Appstore_Top_30) - Daily Top 30 charts, 39 countries, App Store & Google Play, open JSON API.
+2. [Fastemy ASO Cases](https://aso.fastemy.com/dataset/) - Sourced ASO case studies with before/after metrics. CSV, JSON, CC BY 4.0.
 
 ## Books
 
