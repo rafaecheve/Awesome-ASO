@@ -79,6 +79,7 @@ _To contribute, click README.md and then the pencil icon. Make your changes and 
 9. [Headloop](https://headloop.app) - Checks App Store header (21:9) and search (3:2) videos in the browser, no upload. Free.
 9. [Google Play Reviews Scraper](https://apify.com/dheerajitbhu/google-play-reviews) - Android reviews by country, language, stars, date. JSON/CSV, no login.
 9. [GameQuant](https://gamequant.io) - Daily App Store top chart history in 170+ countries, download and revenue estimates.
+9. [GamerScroll](https://gamerscroll.com/) - App Store, Google Play (US/JP/KR/TW/CN) & Steam charts every day. Free, no login.
 9. [Marteso](https://marteso.com) - ASO keyword tracking, AI metadata optimization and competitor analysis built for indie iOS developers. Permanent free tier (1 app, 50 keywords), Pro at €18/month.
 9. [MetaRun](https://metarun.dev) - App Store Connect tool: PPP pricing in 175 storefronts, listing localization, ASO. iOS.
 10. [OneStore](https://www.onestore.so) - Listings, screenshots, releases, reviews for App Store and Google Play. MCP. Free tier.
